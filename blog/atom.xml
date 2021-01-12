@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://confab-messenger.github.io/blog</id>
-    <title>Documentation Blog</title>
+    <title>Confab Blog</title>
     <updated>2019-05-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://confab-messenger.github.io/blog"/>
-    <subtitle>Documentation Blog</subtitle>
+    <subtitle>Confab Blog</subtitle>
     <icon>https://confab-messenger.github.io/img/confab-bg-transparent.svg</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
